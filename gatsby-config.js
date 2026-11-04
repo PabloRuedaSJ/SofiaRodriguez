@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/SofiaRodriguez`,
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
